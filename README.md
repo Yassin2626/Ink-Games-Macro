@@ -1,7 +1,6 @@
 ## Demo
 
-![GUI Demo](docs/Ink%20Games%20Macro.mp4)
-
+https://github.com/user-attachments/assets/ff013f23-818a-4f6b-8f04-62360be2b863
 
 
 ## Quick Start
