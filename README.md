@@ -15,7 +15,7 @@ If you prefer to build from source:
 
 **Prerequisites:**
 - Node.js (v14 or higher)
-- Python 3.12 (The latest python version)
+- Python 3.12+ (The latest python version)
 - npm or yarn
 
 **Building:**
