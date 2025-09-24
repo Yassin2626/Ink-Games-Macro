@@ -1,0 +1,66 @@
+{
+  "name": "marco-cheat-gui",
+  "version": "1.0.0",
+  "private": false,
+  "main": "main.js",
+  "homepage": "./",
+  "author": "Yassin1234",
+  "description": "A modern desktop application with interactive 3D fluid background and game macro automation",
+  "keywords": [
+    "electron",
+    "react",
+    "threejs",
+    "game",
+    "macro",
+    "automation",
+    "3d",
+    "fluid",
+    "animation"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/marco-cheat-gui.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/your-username/marco-cheat-gui/issues"
+  },
+  "dependencies": {
+    "@react-three/drei": "^9.99.1",
+    "@react-three/fiber": "^8.15.11",
+    "autoprefixer": "^10.4.16",
+    "framer-motion": "^10.16.4",
+    "postcss": "^8.4.31",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "tailwindcss": "^3.3.0",
+    "three": "^0.160.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "dev": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "electron:start": "electron .",
+    "electron:build": "electron-packager . --platform=win32 --arch=x64 --out=dist --overwrite"
+  },
+  "devDependencies": {
+    "electron": "^31.0.0",
+    "electron-builder": "^24.0.0",
+    "electron-packager": "^17.1.2",
+    "react-scripts": "^5.0.1"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
