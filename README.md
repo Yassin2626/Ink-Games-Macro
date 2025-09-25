@@ -45,4 +45,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## ⚠️ Important Liability Warning ⚠️
 
 **WARNING**: I am not liable for any consequences that may occur from using this macro tool. Use at your own risk. Game automation tools may violate the rules of Ink Games and could result in account bans or other penalties. The developer assumes no responsibility for any damages or losses incurred through the use of this software.
-This tool is for educational purposes only.**If you are caught using this tool, you may receive penalties ranging from a one week ban to a permanent ban..**
+This tool is for educational purposes only.**If you are caught using this tool, you may receive penalties ranging from a one week ban to a permanent ban...**
